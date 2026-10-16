@@ -10,3 +10,4 @@ Program Studi Informatika, Universitas Bengkulu
 |----|--------|-----------|
 | 1 | [01-late-payment](01-late-payment) | Prediksi keterlambatan pembayaran invoice PT Maju Bersama (Random Forest) |
 | 2 | [02-pm25-parallel](02-pm25-parallel) | Prakiraan polusi udara PM 2.5 berbasis parallel computing (multiprocessing, Slurm) |
+| 3 | [03-gis-spasial](03-gis-spasial) | Otomatisasi ekstraksi data spasial dan analisis titik koordinat (GeoPandas) |
